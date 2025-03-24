@@ -1,1 +1,1 @@
-# VAnilla-issues-and-cuestions
+# VAnilla-issues-and-questions
